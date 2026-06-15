@@ -76,3 +76,7 @@ streamlit run app.py
 ## Outcome
 
 The proposed CNN-based system effectively distinguishes between genuine and AI-generated speech, providing a lightweight and deployable solution for deepfake audio detection.
+
+Kunal Mahawar
+ECE,25116059
+IIT Roorkee
